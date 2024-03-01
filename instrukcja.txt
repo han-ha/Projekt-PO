@@ -1,0 +1,15 @@
+Hanna Laszkiewicz, nr albumu: 339333
+
+Środowisko: Visual Studio Community 2022, .NET 6.0
+Język: C#
+
+Instrukcja:
+
+1. Aby zapoznać się z dokumentacją, wystarczy otworzyć dowolny plik *.html z folderu Dokumentacja,
+następnie wybrać odpowiedni odnośnik do opisu klas, plików itp. Dokumentacja została wygenerowana
+przy pomocy programu Doxygen.
+2. Przed uruchomieniem aplikacji należy upewnić się, że w Hangman\bin\Debug znajdują się:
+- folder Images z 12 plikami *.png numerowanymi od 0 do 11 włącznie,
+- folder Result z plikami 0.png i 1.png,
+- plik hangman_data.txt.
+3. Aby uruchomić aplikację, należy odnaleźć plik HangmanUI.exe w Hangman\bin\Debug, a następnie go otworzyć.
