@@ -1,0 +1,317 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Pakiety"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Package List"><param name="Local" value="namespaces.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI"><param name="Local" value="namespace_hangman_u_i.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Forms"><param name="Local" value="namespace_hangman_u_i_1_1_forms.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html#a916cd21d8e61cb683e7ec528a644f136"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html#accde9486753141f7e00f8d48c2c1b782"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a41c1d230f87d15275e87ed5d44fa465e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a7825d932e1a85f2fda84c72afc0d5bce"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Play"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a4b6c70f450e70fb4ed0049741af3ef1d"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_hangman_u_i_1_1_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Repos"><param name="Local" value="namespace_hangman_u_i_1_1_repos.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a167a66fba025f51d0f1d5b7efe66a12a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#ada4ac2c59ba1a1cb94b3f80c8614caec"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getImage"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a4da0582dc0a905a151e918de7f900d4f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEnd"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a7dd61e833bd3880ec624acb5ec0f2a8a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Next"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a0ae147b25df18e3657813c38df78dfbf"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a418840aed021812881de52c53b132421"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FileReader"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FileReader"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html#adf16938a5647c630ddd89a63b38e4590"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseRandomWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html#a513153db34303de575a886422f1769e4"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputManager"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EWordStatus"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BAD_INPUT"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0a5a159a4278f76743500af8ba0211ea03"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="LETTER_USED"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0acbf34220d7f082781444712eb1f67ef4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="LETTER_GIVEN"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0a83245b033fb6e6e21c0aef2bad6cac6a"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="InputManager"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a695169b7cc050578526cf95ec3eb823b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplyInput"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#af9d0b6c76c99b9e1efdeae26b1588667"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsGoodInput"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#aab35b468098b5ca2e32237d083247594"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a9b03fee4f1e85f5c2bf5acfb03669a67"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a3073797417db29601462700a12485a63"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a9aef08a02ebb0bdcae5bfcdd3e517ed8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guess"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a8274225583cb2dfdaff9334c4296441e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsGuessed"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#ad1c8c9498c3b4daa142fb136e536ab90"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a713da06f8a2b60f685cf0d9d8845c831"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HiddenWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a48f3eb297cc9fd2333bc4f4a35420958"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WordToShow"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a5c30612d51fea7527a28e7e0fbd80756"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#aa5aed7a9085cd22dcfb25b7086b7c91d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsUsed"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#af1b4a0a92ee99d6e14ca5eaa1029b67f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Use"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#a3d72698e3e6796bc2d79802a98ca50c0"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html#a62d157700f0845cf8fe7215fe5d7b8a1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_menu.html#a8d24c43bfaaebb649965436c09aa8608"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Klasy"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Lista klas"><param name="Local" value="annotated.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI"><param name="Local" value="namespace_hangman_u_i.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Forms"><param name="Local" value="namespace_hangman_u_i_1_1_forms.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html#a916cd21d8e61cb683e7ec528a644f136"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html#accde9486753141f7e00f8d48c2c1b782"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a41c1d230f87d15275e87ed5d44fa465e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a7825d932e1a85f2fda84c72afc0d5bce"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Play"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a4b6c70f450e70fb4ed0049741af3ef1d"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Repos"><param name="Local" value="namespace_hangman_u_i_1_1_repos.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a167a66fba025f51d0f1d5b7efe66a12a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#ada4ac2c59ba1a1cb94b3f80c8614caec"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="getImage"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a4da0582dc0a905a151e918de7f900d4f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEnd"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a7dd61e833bd3880ec624acb5ec0f2a8a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Next"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a0ae147b25df18e3657813c38df78dfbf"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a418840aed021812881de52c53b132421"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FileReader"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FileReader"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html#adf16938a5647c630ddd89a63b38e4590"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseRandomWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html#a513153db34303de575a886422f1769e4"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputManager"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EWordStatus"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BAD_INPUT"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0a5a159a4278f76743500af8ba0211ea03"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="LETTER_USED"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0acbf34220d7f082781444712eb1f67ef4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="LETTER_GIVEN"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0a83245b033fb6e6e21c0aef2bad6cac6a"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="InputManager"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a695169b7cc050578526cf95ec3eb823b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplyInput"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#af9d0b6c76c99b9e1efdeae26b1588667"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsGoodInput"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#aab35b468098b5ca2e32237d083247594"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a9b03fee4f1e85f5c2bf5acfb03669a67"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a3073797417db29601462700a12485a63"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a9aef08a02ebb0bdcae5bfcdd3e517ed8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Guess"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a8274225583cb2dfdaff9334c4296441e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsGuessed"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#ad1c8c9498c3b4daa142fb136e536ab90"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a713da06f8a2b60f685cf0d9d8845c831"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HiddenWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a48f3eb297cc9fd2333bc4f4a35420958"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WordToShow"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a5c30612d51fea7527a28e7e0fbd80756"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#aa5aed7a9085cd22dcfb25b7086b7c91d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsUsed"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#af1b4a0a92ee99d6e14ca5eaa1029b67f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Use"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#a3d72698e3e6796bc2d79802a98ca50c0"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html#a62d157700f0845cf8fe7215fe5d7b8a1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_menu.html#a8d24c43bfaaebb649965436c09aa8608"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Indeks klas"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Hierarchia klas"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.FileReader"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Form"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Forms.EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Forms.Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.InputManager"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Sk³adowe klas"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Wszystko"><param name="Local" value="functions.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Funkcje"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Wyliczenia"><param name="Local" value="functions_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="W³aœciwoœci"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Pliki"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Lista plików"><param name="Local" value="files.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI"><param name="Local" value="dir_5be62f56ac2c8a1e52841cf273c0598a.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Forms"><param name="Local" value="dir_9d3909c3684fb3c7bad3a1670ccc18aa.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EndOfGame.cs"><param name="Local" value="_end_of_game_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Forms.EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html#a916cd21d8e61cb683e7ec528a644f136"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html#accde9486753141f7e00f8d48c2c1b782"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EndOfGame.Designer.cs"><param name="Local" value="_end_of_game_8_designer_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Forms.EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="EndOfGame"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html#a916cd21d8e61cb683e7ec528a644f136"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_end_of_game.html#accde9486753141f7e00f8d48c2c1b782"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Game.cs"><param name="Local" value="_game_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Forms.Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a41c1d230f87d15275e87ed5d44fa465e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a7825d932e1a85f2fda84c72afc0d5bce"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Play"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a4b6c70f450e70fb4ed0049741af3ef1d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Game.Designer.cs"><param name="Local" value="_game_8_designer_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Forms.Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Game"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a41c1d230f87d15275e87ed5d44fa465e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a7825d932e1a85f2fda84c72afc0d5bce"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Play"><param name="Local" value="class_hangman_u_i_1_1_forms_1_1_game.html#a4b6c70f450e70fb4ed0049741af3ef1d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Menu.cs"><param name="Local" value="_menu_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html#a62d157700f0845cf8fe7215fe5d7b8a1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_menu.html#a8d24c43bfaaebb649965436c09aa8608"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Menu.Designer.cs"><param name="Local" value="_menu_8_designer_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Menu"><param name="Local" value="class_hangman_u_i_1_1_menu.html#a62d157700f0845cf8fe7215fe5d7b8a1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_hangman_u_i_1_1_menu.html#a8d24c43bfaaebb649965436c09aa8608"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="obj"><param name="Local" value="dir_ef58b2efcb78148214262b72610b65de.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Debug"><param name="Local" value="dir_e6ae29bae964c5294587267ed4b4a389.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value=".NETFramework,Version=v4.7.2.AssemblyAttributes.cs"><param name="Local" value="_8_n_e_t_framework_00_version_0av4_87_82_8_assembly_attributes_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="dir_e23b54cb4c8a7176aa907e92587beee9.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AssemblyInfo.cs"><param name="Local" value="_assembly_info_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Resources.Designer.cs"><param name="Local" value="_resources_8_designer_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Settings.Designer.cs"><param name="Local" value="_settings_8_designer_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Repos"><param name="Local" value="dir_680557d7614525250fe2bd070af76040.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing.cs"><param name="Local" value="_drawing_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a167a66fba025f51d0f1d5b7efe66a12a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Drawing"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#ada4ac2c59ba1a1cb94b3f80c8614caec"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getImage"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a4da0582dc0a905a151e918de7f900d4f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEnd"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a7dd61e833bd3880ec624acb5ec0f2a8a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Next"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a0ae147b25df18e3657813c38df78dfbf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_drawing.html#a418840aed021812881de52c53b132421"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FileReader.cs"><param name="Local" value="_file_reader_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.FileReader"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="FileReader"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html#adf16938a5647c630ddd89a63b38e4590"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ChooseRandomWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_file_reader.html#a513153db34303de575a886422f1769e4"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InputManager.cs"><param name="Local" value="_input_manager_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.InputManager"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="EWordStatus"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BAD_INPUT"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0a5a159a4278f76743500af8ba0211ea03"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="LETTER_USED"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0acbf34220d7f082781444712eb1f67ef4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="LETTER_GIVEN"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0a83245b033fb6e6e21c0aef2bad6cac6a"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="InputManager"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a695169b7cc050578526cf95ec3eb823b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplyInput"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#af9d0b6c76c99b9e1efdeae26b1588667"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IsGoodInput"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#aab35b468098b5ca2e32237d083247594"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a9b03fee4f1e85f5c2bf5acfb03669a67"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a3073797417db29601462700a12485a63"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Word.cs"><param name="Local" value="_word_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Word"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a9aef08a02ebb0bdcae5bfcdd3e517ed8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Guess"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a8274225583cb2dfdaff9334c4296441e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IsGuessed"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#ad1c8c9498c3b4daa142fb136e536ab90"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ShowWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a713da06f8a2b60f685cf0d9d8845c831"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="HiddenWord"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a48f3eb297cc9fd2333bc4f4a35420958"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="WordToShow"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word.html#a5c30612d51fea7527a28e7e0fbd80756"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker.cs"><param name="Local" value="_word_checker_8cs.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HangmanUI.Repos.WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="WordChecker"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#aa5aed7a9085cd22dcfb25b7086b7c91d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IsUsed"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#af1b4a0a92ee99d6e14ca5eaa1029b67f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Use"><param name="Local" value="class_hangman_u_i_1_1_repos_1_1_word_checker.html#a3d72698e3e6796bc2d79802a98ca50c0"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Program.cs"><param name="Local" value="_program_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

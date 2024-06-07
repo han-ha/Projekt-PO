@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.7"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Hangman: Dokumentacja klasy HangmanUI.Repos.InputManager</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">Hangman
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Wygenerowano przez Doxygen 1.9.7 -->
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Strona&#160;główna</span></a></li>
+      <li><a href="namespaces.html"><span>Pakiety</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Klasy</span></a></li>
+      <li><a href="files.html"><span>Pliki</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Lista&#160;klas</span></a></li>
+      <li><a href="classes.html"><span>Indeks&#160;klas</span></a></li>
+      <li><a href="hierarchy.html"><span>Hierarchia&#160;klas</span></a></li>
+      <li><a href="functions.html"><span>Składowe&#160;klas</span></a></li>
+    </ul>
+  </div>
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a class="el" href="namespace_hangman_u_i.html">HangmanUI</a></li><li class="navelem"><a class="el" href="namespace_hangman_u_i_1_1_repos.html">Repos</a></li><li class="navelem"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html">InputManager</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-types">Typy publiczne</a> &#124;
+<a href="#pub-methods">Metody publiczne</a> &#124;
+<a href="#properties">Właściwości</a> &#124;
+<a href="class_hangman_u_i_1_1_repos_1_1_input_manager-members.html">Lista wszystkich składowych</a>  </div>
+  <div class="headertitle"><div class="title">Dokumentacja klasy HangmanUI.Repos.InputManager</div></div>
+</div><!--header-->
+<div class="contents">
+
+<p>Klasa odpowiadająca za operacje na inpucie.  
+ <a href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#details">Więcej...</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Typy publiczne</h2></td></tr>
+<tr class="memitem:a7e07fbd9e8742aec4b067956c5c971d0"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0">EWordStatus</a> { <a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0a5a159a4278f76743500af8ba0211ea03">BAD_INPUT</a>
+, <a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0acbf34220d7f082781444712eb1f67ef4">LETTER_USED</a>
+, <a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0a83245b033fb6e6e21c0aef2bad6cac6a">LETTER_GIVEN</a>
+ }</td></tr>
+<tr class="memdesc:a7e07fbd9e8742aec4b067956c5c971d0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Enumerator dla komunikatów zwrotnych o przebiegu ruchu gracza (niepoprawne wejście, litera została wcześniej użyta lub litera zostaje wykorzystana).  <a href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0">Więcej...</a><br /></td></tr>
+<tr class="separator:a7e07fbd9e8742aec4b067956c5c971d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Metody publiczne</h2></td></tr>
+<tr class="memitem:a695169b7cc050578526cf95ec3eb823b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a695169b7cc050578526cf95ec3eb823b">InputManager</a> (string path)</td></tr>
+<tr class="memdesc:a695169b7cc050578526cf95ec3eb823b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Konstruktor parametryczny dla klasy InputManager.  <br /></td></tr>
+<tr class="separator:a695169b7cc050578526cf95ec3eb823b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab35b468098b5ca2e32237d083247594"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#aab35b468098b5ca2e32237d083247594">IsGoodInput</a> (string inputString)</td></tr>
+<tr class="memdesc:aab35b468098b5ca2e32237d083247594"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sprawdza, czy podane wejście spełnia warunki gry (jest długości 1, jest literą).  <br /></td></tr>
+<tr class="separator:aab35b468098b5ca2e32237d083247594"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9d0b6c76c99b9e1efdeae26b1588667"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0">EWordStatus</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#af9d0b6c76c99b9e1efdeae26b1588667">ApplyInput</a> (string inputString)</td></tr>
+<tr class="memdesc:af9d0b6c76c99b9e1efdeae26b1588667"><td class="mdescLeft">&#160;</td><td class="mdescRight">Wykonuje ruch gracza i zwraca komunikat o przebiegu ruchu gracza.  <br /></td></tr>
+<tr class="separator:af9d0b6c76c99b9e1efdeae26b1588667"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
+Właściwości</h2></td></tr>
+<tr class="memitem:a9b03fee4f1e85f5c2bf5acfb03669a67"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_word.html">Word</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a9b03fee4f1e85f5c2bf5acfb03669a67">Word</a><code> [get]</code></td></tr>
+<tr class="memdesc:a9b03fee4f1e85f5c2bf5acfb03669a67"><td class="mdescLeft">&#160;</td><td class="mdescRight">Obiekt odpowiadający za słowo, które należy odgadnąć.  <br /></td></tr>
+<tr class="separator:a9b03fee4f1e85f5c2bf5acfb03669a67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3073797417db29601462700a12485a63"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_word_checker.html">WordChecker</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a3073797417db29601462700a12485a63">WordChecker</a><code> [get]</code></td></tr>
+<tr class="memdesc:a3073797417db29601462700a12485a63"><td class="mdescLeft">&#160;</td><td class="mdescRight">Obiekt odpowiadający za sprawdzanie użycia liter.  <br /></td></tr>
+<tr class="separator:a3073797417db29601462700a12485a63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Opis szczegółowy</h2>
+<div class="textblock"><p>Klasa odpowiadająca za operacje na inpucie. </p>
+</div><h2 class="groupheader">Dokumentacja składowych wyliczanych</h2>
+<a id="a7e07fbd9e8742aec4b067956c5c971d0" name="a7e07fbd9e8742aec4b067956c5c971d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e07fbd9e8742aec4b067956c5c971d0">&#9670;&#160;</a></span>EWordStatus</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0">HangmanUI.Repos.InputManager.EWordStatus</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Enumerator dla komunikatów zwrotnych o przebiegu ruchu gracza (niepoprawne wejście, litera została wcześniej użyta lub litera zostaje wykorzystana). </p>
+<table class="fieldtable">
+<tr><th colspan="2">Wartości wyliczeń</th></tr><tr><td class="fieldname"><a id="a7e07fbd9e8742aec4b067956c5c971d0a5a159a4278f76743500af8ba0211ea03" name="a7e07fbd9e8742aec4b067956c5c971d0a5a159a4278f76743500af8ba0211ea03"></a>BAD_INPUT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7e07fbd9e8742aec4b067956c5c971d0acbf34220d7f082781444712eb1f67ef4" name="a7e07fbd9e8742aec4b067956c5c971d0acbf34220d7f082781444712eb1f67ef4"></a>LETTER_USED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7e07fbd9e8742aec4b067956c5c971d0a83245b033fb6e6e21c0aef2bad6cac6a" name="a7e07fbd9e8742aec4b067956c5c971d0a83245b033fb6e6e21c0aef2bad6cac6a"></a>LETTER_GIVEN&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<h2 class="groupheader">Dokumentacja konstruktora i destruktora</h2>
+<a id="a695169b7cc050578526cf95ec3eb823b" name="a695169b7cc050578526cf95ec3eb823b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a695169b7cc050578526cf95ec3eb823b">&#9670;&#160;</a></span>InputManager()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">HangmanUI.Repos.InputManager.InputManager </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>path</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Konstruktor parametryczny dla klasy InputManager. </p>
+<dl class="params"><dt>Parametry</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">path</td><td>Ścieżka do pliku ze słowami do losowania.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<h2 class="groupheader">Dokumentacja funkcji składowych</h2>
+<a id="af9d0b6c76c99b9e1efdeae26b1588667" name="af9d0b6c76c99b9e1efdeae26b1588667"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9d0b6c76c99b9e1efdeae26b1588667">&#9670;&#160;</a></span>ApplyInput()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_input_manager.html#a7e07fbd9e8742aec4b067956c5c971d0">EWordStatus</a> HangmanUI.Repos.InputManager.ApplyInput </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>inputString</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Wykonuje ruch gracza i zwraca komunikat o przebiegu ruchu gracza. </p>
+<dl class="params"><dt>Parametry</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">inputString</td><td>Input do sprawdzenia.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Zwraca</dt><dd>Komunikat o przebiegu wykonania ruchu.</dd></dl>
+
+</div>
+</div>
+<a id="aab35b468098b5ca2e32237d083247594" name="aab35b468098b5ca2e32237d083247594"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aab35b468098b5ca2e32237d083247594">&#9670;&#160;</a></span>IsGoodInput()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool HangmanUI.Repos.InputManager.IsGoodInput </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>inputString</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Sprawdza, czy podane wejście spełnia warunki gry (jest długości 1, jest literą). </p>
+<dl class="params"><dt>Parametry</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">inputString</td><td>Wejście do sprawdzenia.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Zwraca</dt><dd>true - gdy wejście spełnia warunki, false - wpp.</dd></dl>
+
+</div>
+</div>
+<h2 class="groupheader">Dokumentacja właściwości</h2>
+<a id="a9b03fee4f1e85f5c2bf5acfb03669a67" name="a9b03fee4f1e85f5c2bf5acfb03669a67"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b03fee4f1e85f5c2bf5acfb03669a67">&#9670;&#160;</a></span>Word</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_word.html">Word</a> HangmanUI.Repos.InputManager.Word</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Obiekt odpowiadający za słowo, które należy odgadnąć. </p>
+
+</div>
+</div>
+<a id="a3073797417db29601462700a12485a63" name="a3073797417db29601462700a12485a63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3073797417db29601462700a12485a63">&#9670;&#160;</a></span>WordChecker</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_hangman_u_i_1_1_repos_1_1_word_checker.html">WordChecker</a> HangmanUI.Repos.InputManager.WordChecker</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Obiekt odpowiadający za sprawdzanie użycia liter. </p>
+
+</div>
+</div>
+<hr/>Dokumentacja dla tej klasy została wygenerowana z pliku:<ul>
+<li>HangmanUI/Repos/<a class="el" href="_input_manager_8cs.html">InputManager.cs</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Wygenerowano przez&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.7
+</small></address>
+</body>
+</html>
