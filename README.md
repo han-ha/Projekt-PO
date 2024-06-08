@@ -9,4 +9,4 @@
 
 ### Przydatne informacje
 
-Projek został wykonany w **Visual Studio Community 2022 (.NET 6.0)** w języku **C#**. W razie potrzeby można w kroku 2. wybrać opcję ``Release`` i umieścić foldery ``Images`` oraz ``Result`` w ``Hangman\bin\Release``, a w kroku 3. odszukać plik ``HangmanUI.exe`` w ``Hangman\bin\Release``.
+Projekt został wykonany w **Visual Studio Community 2022 (.NET 6.0)** w języku **C#**. W razie potrzeby można w kroku 2. wybrać opcję ``Release`` i umieścić foldery ``Images`` oraz ``Result`` w ``Hangman\bin\Release``, a w kroku 3. odszukać plik ``HangmanUI.exe`` w ``Hangman\bin\Release``.
