@@ -1,7 +1,7 @@
 ### Instrukcja uruchomienia
 
 1. Aby zapoznać się z dokumentacją, wystarczy otworzyć dowolny plik ``*.html`` z folderu ``Dokumentacja``, następnie wybrać odpowiedni odnośnik do opisu klas, plików itp. Dokumentacja została wygenerowana przy pomocy programu **Doxygen**.
-2. Wybrać opcję ``Build solution`` z ustawieniem ``Debug``, a przed uruchomieniem aplikacji upewnić się, że w ``Hangman\bin\Debug`` znajdują się:
+2. Aby przygotować aplikację do uruchomienia, należy wybrać opcję ``Build solution`` z ustawieniem ``Debug``, a przed uruchomieniem - upewnić się, że w ``Hangman\bin\Debug`` znajdują się:
     - folder Images z 12 plikami ``*.png`` numerowanymi od 0 do 11 włącznie,
     - folder Result z plikami ``0.png`` i ``1.png``,
     - plik hangman_data.txt.
