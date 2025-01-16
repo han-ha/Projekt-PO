@@ -1,4 +1,4 @@
-### Instrukcja uruchomienia
+### Instrukcja uruchomienia w trybie deweloperskim
 
 1. Aby zapoznać się z dokumentacją, wystarczy otworzyć dowolny plik ``*.html`` z folderu ``Dokumentacja``, następnie wybrać odpowiedni odnośnik do opisu klas, plików itp. Dokumentacja została wygenerowana przy pomocy programu **Doxygen**.
 2. Aby przygotować aplikację do uruchomienia, należy wybrać opcję ``Build solution`` z ustawieniem ``Debug``, a przed uruchomieniem - upewnić się, że w ``Hangman\bin\Debug`` znajdują się:
